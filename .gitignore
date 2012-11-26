@@ -13,6 +13,11 @@ TestResults
 *.user
 *.sln.docstates
 
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignor
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
